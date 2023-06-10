@@ -39,6 +39,17 @@ To build dapp for prod:
 
 Deploy the contents of the ./dapp folder
 
+## Libraries and Why I used:
+Truffle v5.0.2: I use Truffle v5.0.2 to simplify the development, testing, and deployment of Ethereum smart contracts.
+
+Ganache v2.7.1: I use Ganache v2.7.1 to emulate a local Ethereum network for development and testing purposes.
+
+Solidity - 0.8.4: I use Solidity - 0.8.4 to write smart contracts on the Ethereum platform with its contract-oriented programming language.
+
+Node v12.22.9: I use Node v12.22.9 as the runtime environment for executing scripts and interacting with the Ethereum network.
+
+Web3.js v1.7.4: I use Web3.js v1.7.4 to interact with the Ethereum blockchain and develop decentralized applications using JavaScript.
+
 
 ## Resources
 
